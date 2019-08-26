@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Friend Finder is a simple application that allows users to find a four legged friend based on answers they provide and compatibility. User is asked to provide name and photo and presented with 10 questions survey  after submitting the form app sugegsts the best matched dog.  ## Technology used. Technology used implement the app are: Node.js and Express server on the back end and HTML, Bootstrap on the front end. ## FriendFinder deployed to Heroku",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kat-lagnado/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kat-lagnado/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kat-lagnado/FriendFinder#readme"
+}
